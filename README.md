@@ -4,9 +4,9 @@
 
 ### Senior Technology Leader · IT Management & IT Business Operations
 
-[![Website](https://img.shields.io/badge/🌐_jermsmit.com-000000?style=for-the-badge)](https://jermsmit.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jermsmit)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jermsmit@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_jermsmit.com-000000?style=flat-square)](https://jermsmit.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jermsmit)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jermsmit@gmail.com)
 
 </div>
 
