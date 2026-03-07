@@ -13,9 +13,9 @@
 
 ## 🧭 About Me
 
-I'm a **proven IT leader with 20+ years of experience** in enterprise infrastructure, cloud platforms, and global team leadership — including 10+ years managing distributed teams in regulated Life Sciences SaaS environments.
+I'm a **proven IT leader with 20+ years of experience** in enterprise infrastructure, cloud platforms, and global team leadership, including 10+ years managing distributed teams in regulated Life Sciences SaaS environments.
 
-Currently serving as **Senior Manager of IT** at Sparta Systems (a Honeywell Company), where I lead global infrastructure, cybersecurity, platform engineering, and digital transformation initiatives. I thrive at the intersection of people, process, and technology — building high-performing teams, driving operational excellence, and aligning IT execution to business strategy.
+Currently serving as **Senior Manager in IT** at Sparta Systems (a Honeywell Company), where I lead global infrastructure, cybersecurity, platform engineering, and digital transformation initiatives. I thrive at the intersection of people, process, and technology building high-performing teams, driving operational excellence, and aligning IT execution to business strategy.
 
 When I'm not leading teams or architecting infrastructure, I write about enterprise tech at **[jermsmit.com](https://jermsmit.com)** covering cloud, virtualization, security, and disaster recovery since 2007.
 
@@ -23,7 +23,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 
 ## 🏆 Career Highlights
 
-- 🌍 **Built & led global IT teams** across the US and India — infrastructure, ops, security, and platform support
+- 🌍 **Built & led global IT teams** across the US and India infrastructure, ops, security, and platform support
 - ☁️ **Directed cloud transformations** on Azure & AWS, including enterprise M365 migrations and hybrid architecture
 - 🔐 **Led SOC 2 & ISO 27001 audit prep** with clean outcomes in a regulated Life Sciences environment
 - 🤝 **Navigated Honeywell acquisition** of Sparta Systems Inc, maintaining team stability and service continuity
@@ -74,7 +74,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 
 ## 📝 Latest from the Blog
 
-I've been writing about enterprise technology at **[jermsmit.com](https://jermsmit.com)** since 2007 — sharing hands-on insights on infrastructure, cloud, virtualization, security, and disaster recovery.
+I've been writing about enterprise technology at **[jermsmit.com](https://jermsmit.com)** since 2007, sharing hands-on insights on infrastructure, cloud, virtualization, security, and disaster recovery.
 
 ---
 
