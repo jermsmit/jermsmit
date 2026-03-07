@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Jermal Smith of New Jersey, USA 👋
+# Hey, I'm Jermal Smith 👋
 
 ### Senior Technology Leader · IT Management & IT Business Operations
 
