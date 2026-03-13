@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Jermal Smith 👋
+# Hey, I'm Jermal Smith
 
 ### Senior Technology Leader · IT Management & IT Business Operations
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 I'm a **proven IT leader with 20+ years of experience** in enterprise infrastructure, cloud platforms, and global team leadership, including 10+ years managing distributed teams in regulated Life Sciences SaaS environments.
 
@@ -21,18 +21,18 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 
 ---
 
-## 🏆 Career Highlights
+## Career Highlights
 
-- 🌍 **Built & led global IT teams** across the US and India infrastructure, ops, security, and platform support
-- ☁️ **Directed cloud transformations** on Azure & AWS, including enterprise M365 migrations and hybrid architecture
-- 🔐 **Led SOC 2 & ISO 27001 audit prep** with clean outcomes in a regulated Life Sciences environment
-- 🤝 **Navigated Honeywell acquisition** of Sparta Systems Inc, maintaining team stability and service continuity
-- 🏠 **Enabled global work-from-home** during COVID and led post-COVID return-to-work technology initiatives
-- 🏗️ **Opened a Center of Excellence in India** as part of a broader enterprise expansion strategy
+-  **Built & led global IT teams** across the US and India infrastructure, ops, security, and platform support
+-  **Directed cloud transformations** on Azure & AWS, including enterprise M365 migrations and hybrid architecture
+-  **Led SOC 2 & ISO 27001 audit prep** with clean outcomes in a regulated Life Sciences environment
+-  **Navigated Honeywell acquisition** of Sparta Systems Inc, maintaining team stability and service continuity
+-  **Enabled global work-from-home** during COVID and led post-COVID return-to-work technology initiatives
+-  **Opened a Center of Excellence in India** as part of a broader enterprise expansion strategy
 
 ---
 
-## 🛠️ Tech Stack & Competencies
+## Tech Stack & Competencies
 
 **Cloud & Productivity**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -61,7 +61,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 
 ---
 
-## 💡 Core Competencies
+## Core Competencies
 
 | Leadership | Technical | Governance |
 |---|---|---|
@@ -72,7 +72,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 
 ---
 
-## 📝 Latest from the Blog
+## Latest from the Blog
 
 I've been writing about enterprise technology at **[jermsmit.com](https://jermsmit.com)** since 2007, sharing hands-on insights on infrastructure, cloud, virtualization, security, and disaster recovery.
 
