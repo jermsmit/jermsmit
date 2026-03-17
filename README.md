@@ -72,12 +72,6 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 
 ---
 
-## Latest from the Blog
-
-I've been writing about enterprise technology at **[jermsmit.com](https://jermsmit.com)** since 2007, sharing hands-on insights on infrastructure, cloud, virtualization, security, and disaster recovery.
-
----
-
 <div align="center">
 
 *"Strong communicator and collaborator who bridges technical and business stakeholders across all levels."*
