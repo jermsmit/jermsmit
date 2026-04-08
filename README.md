@@ -25,7 +25,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 
 -  **Built & led global IT teams** across the US and India infrastructure, ops, security, and platform support
 -  **Directed cloud transformations** on Azure & AWS, including enterprise M365 migrations and hybrid architecture
--  **Led SOC 2 & ISO 27001 audit prep** with clean outcomes in a regulated Life Sciences environment
+-  **Led SOC 2 & ISO 27001/9001 audit prep** with clean outcomes in a regulated Life Sciences environment
 -  **Navigated Honeywell acquisition** of Sparta Systems Inc, maintaining team stability and service continuity
 -  **Enabled global work-from-home** during COVID and led post-COVID return-to-work technology initiatives
 -  **Opened a Center of Excellence in India** as part of a broader enterprise expansion strategy
@@ -57,7 +57,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frameworks & Compliance**
-`ITIL` · `SOC 2` · `ISO 27001` · `ISO 9001` · `Agile/Scrum` · `Change Management`
+`ITIL` | `SOC 2` | `ISO 27001` | `ISO 9001` | `Agile/Scrum` | `Change Management`
 
 ---
 
