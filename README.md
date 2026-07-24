@@ -5,11 +5,37 @@
 ### Senior Technology Leader · IT Management & IT Business Operations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jermsmit)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jermsmit@gmail.com)
 
 </div>
 
 ---
+
+```
+:::----------=======================--------   jermsmit@github
+::---------================+++++=======-----   --------------------
+---------====+***+++===-----=++++++++=====--   OS: ..................... Windows 11, Linux, Android 14
+-------====+*%%%**++=------=+*******++++====   Uptime: .................. 51 years, 6 months
+------====+#%@@%**+=------=+***#####**++++==   Host: ..................... jermsmit.com
+----======*%%%%%#*+===-----==++%%%%##***+++=   
+---======+#%@@%%#*+++=--======+%@%%%##***+++   Languages.Programming: ... Python, PowerShell, JavaScript
+---=======**+==:::.::...=--==:-+%@@%%##***++   Languages.Computer: ...... HTML, CSS, JSON, ...
+---===+:.-=::.:- .:-:...:-=++::.-@@@%%##***+   Languages.Real: ........... English
+---=====-++=++%*::-===--==+=*=:.=@@@%%#****+   
+---====++=*####-::.=*+----==+=:-%@@%%##***++   Hobbies.Engineering: ...... Electronics, Power Systems
+---=====+++%%#*=:.:-*=----=====%@%%%##****++   Hobbies.Health: ........... Powerlifting
+---=====+++*%%#*=-:---------==:=%%###****+++   
+----=====+++*+++-:..:::::-:::.  :##****++++=   ------------------------------------------------
+----=====+++++**++-:::::::..     :+***++++==   Contact
+-----=====++++**+=-::...           -+++++===   Email: ..................... jermsmit@gmail.com
+------=====++++:...                  .:-====   LinkedIn: .................. jermsmit
+-------=====-::. .                      .::-   YouTube: ................... jermsmit
+:-------::.....                .  .....    .   
+::---:........   .               ...........   ------------------------------------------------
+:::-. ........  ...    ....... ...........     GitHub Stats
+:::. ........  . .... ........ ..........      Repos: ................... 18 | Following: ....... 6
+                                               Followers: ................ 2
+```
+
 
 ## About Me
 
