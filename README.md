@@ -105,4 +105,3 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 </div>
 
 ---
-
