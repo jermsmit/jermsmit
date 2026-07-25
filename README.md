@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hey, I'm Jermal Smith
-
 ### Senior Technology Leader · IT Management & IT Business Operations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jermsmit)
