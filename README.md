@@ -8,6 +8,7 @@
 
 </div>
 
+![Neofetch Stats](./assets/neofetch-stats.svg)
 ---
 
 ```
