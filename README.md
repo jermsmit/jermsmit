@@ -24,7 +24,7 @@
 ---=====+++*%%#*=-:---------==:=%%###****+++   
 ----=====+++*+++-:..:::::-:::.  :##****++++=   ------------------------------------------------
 ----=====+++++**++-:::::::..     :+***++++==   Contact
------=====++++**+=-::...           -+++++===   Email: ..................... jermsmit@gmail.com
+-----=====++++**+=-::...           -+++++===   Email: ..................... jermsmit@outlook.com
 ------=====++++:...                  .:-====   LinkedIn: .................. jermsmit
 -------=====-::. .                      .::-   YouTube: ................... jermsmit
 :-------::.....                .  .....    .   
@@ -39,7 +39,9 @@
 
 I'm a **proven IT leader with 20+ years of experience** in enterprise infrastructure, cloud platforms, and global team leadership, including 10+ years managing distributed teams in regulated Life Sciences SaaS environments.
 
-Currently serving as **Senior Manager in IT** at Sparta Systems (a Honeywell Company), where I lead global infrastructure, cybersecurity, platform engineering, and digital transformation initiatives. I thrive at the intersection of people, process, and technology building high-performing teams, driving operational excellence, and aligning IT execution to business strategy.
+Most recently, I led global infrastructure, cybersecurity, platform engineering, and digital transformation initiatives at Sparta Systems (a Honeywell Company). I thrive at the intersection of people, process, and technology — building high-performing teams, driving operational excellence, and aligning IT execution to business strategy.
+
+Outside of corporate roles, I'm also hands-on building AI-powered tools — spanning recruiting, vendor risk, IT risk management, and job search tracking — as ongoing proof of technical depth and product thinking.
 
 When I'm not leading teams or architecting infrastructure, I write about enterprise tech at **[jermsmit.com](https://jermsmit.com)** covering cloud, virtualization, security, and disaster recovery since 2007.
 
@@ -47,11 +49,11 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 
 ## Career Highlights
 
--  **Built & led global IT teams** across the US and India infrastructure, ops, security, and platform support
+-  **Built & led global IT teams** (up to 15 direct/dotted-line/matrix staff) across the US, UK, and India — infrastructure, ops, security, and platform support
 -  **Directed cloud transformations** on Azure & AWS, including enterprise M365 migrations and hybrid architecture
--  **Led SOC 2 & ISO 27001/9001 audit prep** with clean outcomes in a regulated Life Sciences environment
--  **Navigated Honeywell acquisition** of Sparta Systems Inc, maintaining team stability and service continuity
--  **Enabled global work-from-home** during COVID and led post-COVID return-to-work technology initiatives
+-  **Led SOC 2 & ISO 27001/9001 audit prep** with zero major findings across consecutive cycles in a regulated Life Sciences environment
+-  **Navigated a four-year Honeywell acquisition** of Sparta Systems Inc. as primary IT integration lead, sustaining zero unplanned outages while maintaining team stability and service continuity
+-  **Enabled global work-from-home** for 300-400 employees within four weeks during COVID and led post-COVID return-to-work technology initiatives
 -  **Opened a Center of Excellence in India** as part of a broader enterprise expansion strategy
 
 ---
@@ -68,6 +70,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 ![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Checkpoint](https://img.shields.io/badge/Checkpoint-FF0000?style=flat-square)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+`Zero Trust` | `IAM` | `MFA/SSO` | `PAM`
 
 **Virtualization & OS**
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
@@ -81,7 +84,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frameworks & Compliance**
-`ITIL` | `SOC 2` | `ISO 27001` | `ISO 9001` | `Agile/Scrum` | `Change Management`
+`ITIL` | `SOC 2` | `ISO 27001` | `ISO 9001` | `HIPAA` | `GDPR` | `FedRAMP` | `NIST` | `CIS` | `Agile/Scrum` | `Change Management`
 
 ---
 
@@ -93,6 +96,7 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 | IT Strategy & Roadmap | Cloud Platforms (Azure, AWS) | Business Continuity & DR |
 | Digital Transformation | Cybersecurity & Identity | Budget & Resource Management |
 | Stakeholder Communication | Vendor & Contract Management | Policy & SOP Development |
+| M&A Integration | Incident Response Leadership | Enterprise Risk Management |
 
 ---
 
