@@ -41,7 +41,7 @@ I'm a **proven IT leader with 20+ years of experience** in enterprise infrastruc
 
 Most recently, I led global infrastructure, cybersecurity, platform engineering, and digital transformation initiatives at Sparta Systems (a Honeywell Company). I thrive at the intersection of people, process, and technology — building high-performing teams, driving operational excellence, and aligning IT execution to business strategy.
 
-Outside of corporate roles, I'm also hands-on building AI-powered tools — spanning recruiting, vendor risk, IT risk management, and job search tracking — as ongoing proof of technical depth and product thinking.
+Outside of corporate roles, I'm also hands-on building AI-powered tools — including [Job Tracker](https://jermsmit.github.io/job-tracker-marketing/), [Vendor Risk Manager](https://jermsmit.github.io/vendor-risk-marketing/), and [IT Risk Register](https://jermsmit.github.io/it-risk-register-marketing/), plus a recruiting platform (HyrLink) — as ongoing proof of technical depth and product thinking.
 
 When I'm not leading teams or architecting infrastructure, I write about enterprise tech at **[jermsmit.com](https://jermsmit.com)** covering cloud, virtualization, security, and disaster recovery since 2007.
 
@@ -55,6 +55,15 @@ When I'm not leading teams or architecting infrastructure, I write about enterpr
 -  **Navigated a four-year Honeywell acquisition** of Sparta Systems Inc. as primary IT integration lead, sustaining zero unplanned outages while maintaining team stability and service continuity
 -  **Enabled global work-from-home** for 300-400 employees within four weeks during COVID and led post-COVID return-to-work technology initiatives
 -  **Opened a Center of Excellence in India** as part of a broader enterprise expansion strategy
+
+---
+
+## Projects
+
+-  **[Job Tracker](https://jermsmit.github.io/job-tracker-marketing/)** — Solo-built application-pipeline dashboard that streamlines job search tracking end-to-end
+-  **[Vendor Risk Manager](https://jermsmit.github.io/vendor-risk-marketing/)** — Solo-built third-party risk management (TPRM) tool for startups lacking a dedicated GRC function
+-  **[IT Risk Register](https://jermsmit.github.io/it-risk-register-marketing/)** — Solo-built risk register / GRC-lite tool for small teams without formal compliance tooling
+-  **HyrLink** — Co-developed agentic AI recruiting/candidate-engagement platform with a live, deployed SLM-based candidate chatbot
 
 ---
 
